@@ -1,0 +1,30 @@
+h1 {
+    position: left;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Permanent Marker', cursive;
+    color: #E2472F;
+}
+
+p {
+    text-align: center;
+    color: black;
+}
+
+li {
+    text-align: center;
+    color: black;
+}
+
+a {
+    color: #E2472F;
+}
+
+.jumbotron {
+    max-height: -90px;
+    background-size: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 20px;
+    width: 80%;
+    padding: 10%;
+}

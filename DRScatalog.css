@@ -1,0 +1,14 @@
+div {
+    text-align: center;
+}
+
+h1 {
+    color: #E2472F;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Permanent Marker', cursive;
+    text-align: left;
+}
+
+a.btn.btn-primary.btn-lg {
+    background-color: #E2472F;
+}
